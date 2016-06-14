@@ -4,3 +4,4 @@ Comment=DuckDuckGo Images
 Exec=chromium https://duckduckgo.com/?ia=images\&iax=1\&q=%U
 Icon=text-html
 Type=Application
+Name[en_GB]=Search_DuckDuckGo-Images
