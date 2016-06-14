@@ -1,6 +1,0 @@
-[Desktop Entry]
-Name=d 
-Comment=DuckDuckGo
-Exec=chromium https://duckduckgo.com/?q=%U
-Icon=text-html
-Type=Application
