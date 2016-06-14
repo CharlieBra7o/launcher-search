@@ -10,7 +10,7 @@ Just copy the **.desktop** files to **~/.local/share/applications/**.
 In case Chromium is /not/ your default browser you need to modify all the **.desktop** files according to your setup. Here is a quick example on to do this:
 
 ```bash
-sed -i 's/Exec=chromium/firefox/g' ~/.local/share/applications/Search_*.desktop
+sed -i 's/chromium/firefox/g' ~/.local/share/applications/Search_*.desktop
 ```
 
 Of course I could have just used something like *xdg-open*, but I just don't feel like installing a package for this :]
