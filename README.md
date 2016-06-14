@@ -7,7 +7,11 @@ These are a couple of example desktop files on how to launch a browser search - 
 Just copy the **.desktop** files to **~/.local/share/applications/**.
 
 ### Configuration
-In case Chromium is /not/ your default browser you need to modify all the **.desktop** files according to your setup.
+In case Chromium is /not/ your default browser you need to modify all the **.desktop** files according to your setup. Here is a quick example on to do this:
+
+sed -i 's/Exec=chromium/firefox/g' ~/.local/share/applications/Search_*.desktop
+
+Of course I could have just used something like /xdg-open/, but I just don't feel like installing a package for this :]
 
 ### Adding your own engines
 Basically just copy any **.desktop** file and Modify it. The **Name** entry is the shortcut you want to assign to the specific engine.
