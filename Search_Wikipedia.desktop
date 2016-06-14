@@ -2,5 +2,5 @@
 Name=w 
 Comment=Wikipedia
 Exec=chromium https://de.wikipedia.org/wiki/%U
-Icon=preferences-system-search
+Icon=text-html
 Type=Application

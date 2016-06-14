@@ -2,5 +2,5 @@
 Name=wa 
 Comment=WolframAlpha
 Exec=chromium https://www.wolframalpha.com/input/?i=%U
-Icon=preferences-system-search
+Icon=text-html
 Type=Application

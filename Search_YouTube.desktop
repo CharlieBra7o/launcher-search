@@ -2,5 +2,5 @@
 Name=y 
 Comment=YouTube
 Exec=chromium https://www.youtube.com/results?search_query=%U
-Icon=preferences-system-search
+Icon=text-html
 Type=Application

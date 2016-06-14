@@ -2,5 +2,5 @@
 Name=g 
 Comment=Google
 Exec=chromium https://www.google.de/search?q=%U
-Icon=preferences-system-search
+Icon=text-html
 Type=Application

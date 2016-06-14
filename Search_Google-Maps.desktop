@@ -2,5 +2,5 @@
 Name=gm 
 Comment=Google Maps
 Exec=chromium https://www.google.de/maps/search/%U
-Icon=preferences-system-search
+Icon=text-html
 Type=Application

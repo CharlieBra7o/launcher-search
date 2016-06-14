@@ -2,5 +2,5 @@
 Name=gi 
 Comment=Google Images
 Exec=chromium https://www.google.de/search?tbm=isch\&q=%U
-Icon=preferences-system-search
+Icon=text-html
 Type=Application

@@ -2,5 +2,5 @@
 Name=d 
 Comment=DuckDuckGo
 Exec=chromium https://duckduckgo.com/?q=%U
-Icon=preferences-system-search
+Icon=text-html
 Type=Application
