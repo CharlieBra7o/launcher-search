@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=gm 
+Comment=Google Maps
+Exec=chromium https://www.google.de/maps/search/%U
+Icon=preferences-system-search
+Type=Application

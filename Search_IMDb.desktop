@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=i 
+Comment=IMDb
+Exec=chromium http://www.imdb.com/find?q=%U
+Icon=preferences-system-search
+Type=Application

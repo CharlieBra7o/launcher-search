@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=di 
+Comment=DuckDuckGo Images
+Exec=chromium https://duckduckgo.com/?ia=images\&iax=1\&q=%U
+Icon=preferences-system-search
+Type=Application

@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=w 
+Comment=Wikipedia
+Exec=chromium https://de.wikipedia.org/wiki/%U
+Icon=preferences-system-search
+Type=Application

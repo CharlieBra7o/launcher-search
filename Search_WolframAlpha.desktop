@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=wa 
+Comment=WolframAlpha
+Exec=chromium https://www.wolframalpha.com/input/?i=%U
+Icon=preferences-system-search
+Type=Application

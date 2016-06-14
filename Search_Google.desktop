@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=g 
+Comment=Google
+Exec=chromium https://www.google.de/search?q=%U
+Icon=preferences-system-search
+Type=Application

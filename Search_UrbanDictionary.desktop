@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=u 
+Comment=Urban Dictionary
+Exec=chromium http://www.urbandictionary.com/define.php?term=%U
+Icon=preferences-system-search
+Type=Application

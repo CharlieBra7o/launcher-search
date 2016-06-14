@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=l 
+Comment=LEO Dictionary
+Exec=chromium https://dict.leo.org/?search=%U
+Icon=preferences-system-search
+Type=Application

@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=gh 
+Comment=Geizhals
+Exec=chromium https://geizhals.de/?fs=%U
+Icon=preferences-system-search
+Type=Application

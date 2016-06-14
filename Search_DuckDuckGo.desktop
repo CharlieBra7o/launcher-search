@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=d 
+Comment=DuckDuckGo
+Exec=chromium https://duckduckgo.com/?q=%U
+Icon=preferences-system-search
+Type=Application
