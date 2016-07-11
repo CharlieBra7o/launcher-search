@@ -1,6 +1,6 @@
 [Desktop Entry]
 Name=y 
 Comment=YouTube
-Exec=chromium https://www.youtube.com/results?search_query=%U
+Exec=xdg-open https://www.youtube.com/results?search_query=%U
 Icon=text-html
 Type=Application

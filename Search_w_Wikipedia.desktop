@@ -1,6 +1,6 @@
 [Desktop Entry]
 Name=w 
 Comment=Wikipedia
-Exec=chromium https://de.wikipedia.org/wiki/%U
+Exec=xdg-open https://de.wikipedia.org/wiki/%U
 Icon=text-html
 Type=Application

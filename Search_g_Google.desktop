@@ -1,6 +1,6 @@
 [Desktop Entry]
 Name=g 
 Comment=Google
-Exec=chromium https://www.google.de/search?q=%U
+Exec=xdg-open https://www.google.de/search?q=%U
 Icon=text-html
 Type=Application

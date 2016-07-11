@@ -1,6 +1,6 @@
 [Desktop Entry]
 Name=gm 
 Comment=Google Maps
-Exec=chromium https://www.google.de/maps/search/%U
+Exec=xdg-open https://www.google.de/maps/search/%U
 Icon=text-html
 Type=Application

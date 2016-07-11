@@ -1,7 +1,7 @@
 [Desktop Entry]
 Name=d 
 Comment=DuckDuckGo
-Exec=chromium https://duckduckgo.com/?q=%U
+Exec=xdg-open https://duckduckgo.com/?q=%U
 Icon=text-html
 Type=Application
 Name[en_GB]=Search_d_DuckDuckGo

@@ -1,6 +1,6 @@
 [Desktop Entry]
 Name=u 
 Comment=Urban Dictionary
-Exec=chromium http://www.urbandictionary.com/define.php?term=%U
+Exec=xdg-open http://www.urbandictionary.com/define.php?term=%U
 Icon=text-html
 Type=Application

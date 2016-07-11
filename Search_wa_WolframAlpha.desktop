@@ -1,6 +1,6 @@
 [Desktop Entry]
 Name=wa 
 Comment=WolframAlpha
-Exec=chromium https://www.wolframalpha.com/input/?i=%U
+Exec=xdg-open https://www.wolframalpha.com/input/?i=%U
 Icon=text-html
 Type=Application

@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=a 
+Comment=Amazon
+Exec=xdg-open https://www.amazon.de/s/?field-keywords=%U
+Icon=text-html
+Type=Application

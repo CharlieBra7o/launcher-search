@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=e 
+Comment=eBay
+Exec=xdg-open http://www.ebay.de/sch/i.html?_nkw=%U
+Icon=text-html
+Type=Application

@@ -1,6 +1,6 @@
 [Desktop Entry]
 Name=gh 
 Comment=Geizhals
-Exec=chromium https://geizhals.de/?fs=%U
+Exec=xdg-open https://geizhals.de/?fs=%U
 Icon=text-html
 Type=Application

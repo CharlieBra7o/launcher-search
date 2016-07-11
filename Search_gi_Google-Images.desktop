@@ -1,6 +1,6 @@
 [Desktop Entry]
 Name=gi 
 Comment=Google Images
-Exec=chromium https://www.google.de/search?tbm=isch\&q=%U
+Exec=xdg-open https://www.google.de/search?tbm=isch\&q=%U
 Icon=text-html
 Type=Application
